@@ -4,7 +4,4 @@ import calculate
 print("Hello World")
 print (calculate.x)
 print("Add hi again")
-
-def foo(x):
-  return x
-  
+print("Syncing?")
